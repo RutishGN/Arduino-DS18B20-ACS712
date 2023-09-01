@@ -1,0 +1,15 @@
+DS18B20 Temperature Sensor:
+Connect the DS18B20 sensor's VCC (Power) pin to 5V on the Arduino Uno.
+Connect the DS18B20 sensor's GND (Ground) pin to GND on the Arduino Uno.
+Connect the DS18B20 sensor's DATA (Signal) pin to digital pin 2 on the Arduino Uno.
+
+ACS712 Current Sensor:
+Connect the ACS712 module's VCC to 5V on the Arduino Uno.
+Connect the ACS712 module's GND to GND on the Arduino Uno.
+Connect the ACS712 module's OUT pin to analog pin A3 on the Arduino Uno.
+
+I2C 16x2 LCD Display (If still connected, as per previous instructions):
+Connect the I2C display's SDA pin to the A4 pin on the Arduino Uno.
+Connect the I2C display's SCL pin to the A5 pin on the Arduino Uno.
+Connect the I2C display's VCC to 5V on the Arduino Uno.
+Connect the I2C display's GND to GND on the Arduino Uno.
