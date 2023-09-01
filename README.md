@@ -2,7 +2,7 @@
  Arduino Temperature and Current Monitoring System
  # Arduino Temperature and Current Monitoring System
 
-![Project Image](project_image.jpg) <!-- Add an image of your project here, if available -->
+![Project Image](project_image.png) <!-- Add an image of your project here, if available -->
 
 **Project Description:**
 
