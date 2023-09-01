@@ -50,4 +50,4 @@ To program the Arduino and work with this project, you'll need the following sof
 1. Clone or download this GitHub repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/arduino-temperature-current-monitoring.git
+   git clone https://github.com/RutishGN/Arduino-DS18B20-ACS712.git
