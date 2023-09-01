@@ -4,10 +4,10 @@
 #include <LiquidCrystal_I2C.h>
 
 // Data wire is connected to Arduino digital pin 4
-#define ONE_WIRE_BUS 4
+#define ONE_WIRE_BUS 2
 
 // ACS712 Current Sensor
-const int sensorPin = A0;  // ACS712 analog input connected to A0
+const int sensorPin = A3;  // ACS712 analog input connected to A0
 const float sensitivity = 0.100; // Sensitivity of ACS712 (100mV/A for ACS712-20A)
 
 // Setup a oneWire instance to communicate with any OneWire devices
